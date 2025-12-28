@@ -50,4 +50,4 @@ This figure establishes detection sparsity as the root cause of downstream track
 
 ## Summary Insight
 
-Together, these figures demonstrate that increasing detection confidence improves visual cleanliness but degrades temporal stability by reducing detection recall. A moderate confidence threshold (0.50) provides the best trade-off between noise suppression and persistent object tracking, motivating the use of different thresholds for visualization versus tracking.
+Together, these figures demonstrate that increasing detection confidence improves visual cleanliness but degrades temporal stability by reducing detection recall. A moderate confidence threshold (0.50) provides the best tradeoff between noise suppression and persistent object tracking, motivating the use of different thresholds for visualization versus tracking.
