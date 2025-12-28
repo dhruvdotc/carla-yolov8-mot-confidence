@@ -5,7 +5,7 @@ This section summarizes the behavior of the detection–tracking pipeline under 
 ---
 
 ### Figure 1: Track Lifetime Distribution  
-**(track_lifetime_histogram.png)**
+**(lifetime_hist.png)**
 
 This histogram shows the distribution of continuous track lifetimes (in seconds) for ByteTrack at detection confidence thresholds of 0.40, 0.50, and 0.65.
 
@@ -16,7 +16,7 @@ This figure illustrates the tradeoff between detection strictness and temporal i
 ---
 
 ### Figure 2: Short-Lived Track Churn (< 1s)  
-**(short_track_churn_lt1s.png)**
+**(churn_lt1s.png)**
 
 This bar chart shows the fraction of tracks that terminate within the first second of their existence.
 
@@ -27,7 +27,7 @@ This metric captures **track churn**, a practical indicator of instability and f
 ---
 
 ### Figure 3: Average Active Tracks per Frame  
-**(avg_active_tracks_per_frame.png)**
+**(avg_active_tracks.png)**
 
 This plot reports the mean number of simultaneously active tracks per frame.
 
@@ -38,7 +38,7 @@ This figure helps distinguish between apparent “cleanliness” and actual syst
 ---
 
 ### Figure 4: Average Detections per Frame  
-**(avg_detections_per_frame.png)**
+**(avg_dets_per_frame.png)**
 
 This plot shows the average number of raw detector outputs per frame before tracking.
 
