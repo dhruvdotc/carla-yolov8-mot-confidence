@@ -5,8 +5,7 @@ All experiments are conducted in the **CARLA simulator** using YOLO-based detect
 
 The focus is not benchmark accuracy, but **system-level behavior** under realistic conditions (domain shift, occlusion, sparse detections).
 
-<!-- Replace the path below once you add the GIF -->
-![Tracking qualitative comparison](docs/media/tracking_comparison.gif)
+![Online multi-object tracking with persistent IDs](docs/media/tracking.gif)
 
 ---
 
