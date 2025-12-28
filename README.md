@@ -6,7 +6,7 @@ All experiments are conducted in the **CARLA simulator** using YOLO-based detect
 The focus is not benchmark accuracy, but **system-level behavior** under realistic conditions (domain shift, occlusion, sparse detections).
 
 ![Online multi-object tracking with persistent IDs](docs/media/tracking.gif)
-
+https://www.youtube.com/watch?v=ls9mTG2TMYw
 ---
 
 ## Project Pipeline
