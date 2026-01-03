@@ -138,13 +138,16 @@ Detailed Part 2 figures and explanations:
 │
 ├── docs/
 │   ├── figures/
-│   │   ├── FIGREADME.md
-│   │   ├── track_lifetime_histogram.png
-│   │   ├── short_track_churn_lt1s.png
-│   │   ├── avg_active_tracks_per_frame.png
-│   │   ├── avg_detections_per_frame.png
-│   │   ├── ade_vs_horizon.png        # (add)
-│   │   └── fde_vs_horizon.png        # (add)
+│   │    ├── part1/
+│   │    │   ├── README.md
+│   │    │   ├── track_lifetime_histogram.png
+│   │    │   ├── short_track_churn_lt1s.png
+│   │    │   ├── avg_active_tracks_per_frame.png
+│   │    │   └── avg_detections_per_frame.png
+│   │    ├── part2/
+│   │    │   ├── README.md
+│   │    │   ├── ade_vs_horizon.png        # (add)
+│   │    │   └── fde_vs_horizon.png        # (add)
 │   └── media/
 │       └── tracking.gif
 │
