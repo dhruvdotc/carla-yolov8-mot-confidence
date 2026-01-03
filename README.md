@@ -59,7 +59,7 @@ Part 1 uses self-consistency / temporal stability metrics from MOT outputs.
 Part 2 evaluates forecasting error against the held-out future segment inside each trajectory window.
 
 Detailed Part 1 figures and explanations:
-**[`docs/figures/part2/README.md`](docs/figures/part1/README.md)**
+**[`docs/figures/part1/README.md`](docs/figures/part1/README.md)**
 
 ### Summary Insights
 - Increasing detection confidence reduces false positives but **increases short-lived track churn**.
