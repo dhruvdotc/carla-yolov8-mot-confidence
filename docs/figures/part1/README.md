@@ -16,7 +16,7 @@ This figure illustrates the tradeoff between detection strictness and temporal i
 ---
 
 ### Figure 2: Short-Lived Track Churn (< 1s)  
-![Short-lived track churn (< 1s)](short_track_churn_lt1s.png)
+![Short-lived track churn (< 1s)](short_track_churn_lt1s.png1)
 
 This bar chart shows the fraction of tracks that terminate within the first second of their existence.
 
